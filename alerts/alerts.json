@@ -1,0 +1,10 @@
+{
+    "alert_level": "HIGH",
+    "reason": "high error or brute force activity detected",
+    "timestamp": "2026-02-12T16:05:26.473240Z",
+    "alert_id": "b258f557-e71b-4217-ae5e-a1a34aceabaf",
+    "details": {
+        "ERROR": 4,
+        "BRUTEFORCE ATTEMPT": 5
+    }
+}

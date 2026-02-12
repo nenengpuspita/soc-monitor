@@ -1,0 +1,8 @@
+{
+    "INFO": 5,
+    "WARN": 3,
+    "ERROR": 4,
+    "BRUTEFORCE ATTEMPT": 5,
+    "STATUS SYSTEM": "CRITICAL",
+    "ALERT": "HIGH"
+}
