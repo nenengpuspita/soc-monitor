@@ -16,7 +16,7 @@ The server log file content has been simplified to make it more user-friendly fo
 - Counts the number of INFO, WARN, and ERROR entries.
 - Detects brute-force attempts for the phrase "failed password".
 - Determines the system status : NORMAL, WARNING, CRITICAL.
-- Alert level : HIGH (Critical), Medium (Warning)
+- Alert level : HIGH (Critical), MEDIUM (Warning)
 - Automatic reports in JSON format.
 
 ## How to Run
